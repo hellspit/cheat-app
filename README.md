@@ -1,6 +1,6 @@
 # Test Assistant - PDF Q&A System
 
-## ✅ Yes, Your Idea is Possible!
+
 
 This system uses Ollama (free, local LLM) to answer MCQ questions from your PDF study material during tests.
 
